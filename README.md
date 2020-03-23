@@ -1,6 +1,3 @@
-# gis-portfolio
-This is my portfolio for Heinz College's Advanced GIS course.
-
 # About Me
 I'm a second year and final semester student in Public Policy & Management at Carnegie Mellon University's Heinz College. Before Heinz, I was working as a Fiscal Policy Analyst in the Massachusetts Senate Ways & Means committee as a post-Northeastern University undergrad transplate from Scranton, PA. While working for the Committee, I had the opportunity to combine my personal mission and academic experiences in working toward equitable and effective housing and homelessness policy, and managed to help shepherd in a few reforms for families and children at risk of housing instability and homelessness. I've folded my passion for place-based socio-economic opportunity into a skillset well positioned to effect transit oriented development policy and planning. 
 
