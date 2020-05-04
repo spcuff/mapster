@@ -17,11 +17,11 @@ Below is a list of projects and lab assignments I have created in this course.
 ## Custom Google Map Style
 Given the current Stay at Home Order we are living under and after sharing a story about my final days of undergrad in Argentina, I was inspired to search back through the photos I took on my trip this assignment's inspiration. The photo and associated Google Map style are from the La Boca barrio of Buenos Aires. Known for its colorful row houses and tango dancers in the streets, La Boca represents a distinctly retro and eclectic style within South America's "European" city.  Because of this, I chose to use the retro style basemap then overlay the dominant colors pulled from photo to the right. Though still an interesting array of color, this exercise made clear that if in a professional setting, a more skilled photographer than myself ought to be employed to best capture the hues and crispness one of Buenos Aires' most distinctive barrios deserves.
 
-*photo*
+![photo](GoogleStyleAndColor.jpg)
 
 This wasn't the only photo from the trip I tried to covert into a palette. Especially after remembering my final day of undergrad on the Perito Moreno Glacier on Lago Argentina, I wanted to pull a palette from there.
 
-*photo*
+![photo](otherpalettes.jpg)
 
 As you can see above however, the palette's were quite neutral and quite similar, so I chose to go with the brightness and vibrancy of La Boca to highlight distinctions in the geography of Argentina's capital city.
 
@@ -32,7 +32,7 @@ To fit the feeling, I searched through the Adobe color trends tool to find the b
 
 *photo*
 
-The ArcGIS basemap I created is linked here: https://arcg.is/n8b1G (Links to an external site.). As you can see when you click the link (I hope) the map extent is zoomed in on my beloved Yankee Stadium. I chose to use the Community basemap as a template, and altered the map text to reflect a more retro, sports-marketing style. The somewhat subdued brown-grey gradient is meant to reflect the history of the game and the many historic newspaper columns written from the mezzanine of that very place. 
+The ArcGIS basemap I created is [linked here](https://arcg.is/n8b1G). As you can see when you click the link (I hope) the map extent is zoomed in on my beloved Yankee Stadium. I chose to use the Community basemap as a template, and altered the map text to reflect a more retro, sports-marketing style. The somewhat subdued brown-grey gradient is meant to reflect the history of the game and the many historic newspaper columns written from the mezzanine of that very place. 
 
 With a zoomed in extent on Yankee Stadium, the map style performs well, particularly in the way it highlights community features and assets:
 
