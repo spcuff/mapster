@@ -56,6 +56,7 @@ Out of the interest of time, I used the template provided in the tutorial to map
 In each case, a tool like this could be invaluable to rather makeshift or unique planning efforts to deliver every day, informal services to those in need. As needs of all levels of our society shift on a seemingly hourly basis, training in tools such as the sheet mapper can shorten the run up time in service provision and prevent anyone from falling through the cracks, in this crisis or the next.
 
 ## Hurricane Damage Decisions
+Here is a link to my public [ArcGIS online map package](https://carnegiemellon.maps.arcgis.com/home/item.html?id=cb5ec7dfbfec495da5f1857981331a8f) for Module 2.
 
 ## Creating Your Own Geographic Footprint
 ### 412 Food Rescue Data
