@@ -30,32 +30,32 @@ Given the subdued nature of this years' would-have-been Opening Day for Major Le
 
 To fit the feeling, I searched through the Adobe color trends tool to find the below image and hex codes:
 
-*photo*
+![photo](adobe-hex.JPG)
 
 The ArcGIS basemap I created is [linked here](https://arcg.is/n8b1G). As you can see when you click the link (I hope) the map extent is zoomed in on my beloved Yankee Stadium. I chose to use the Community basemap as a template, and altered the map text to reflect a more retro, sports-marketing style. The somewhat subdued brown-grey gradient is meant to reflect the history of the game and the many historic newspaper columns written from the mezzanine of that very place. 
 
 With a zoomed in extent on Yankee Stadium, the map style performs well, particularly in the way it highlights community features and assets:
 
-*photo*
+![photo](wider render.JPG)
 
 However, the ArcGIS style editor lacks some of the dynamic flexibility the Google Maps editor. In this case, the streets, arterials, and highways can't be pared down, which in a major metropolitan area like New York, muddies the map when a darker color, as in this style is applied. You can see that clearly in this screenshot:
 
-*photo*
+![photo](close render.JPG)
 
 I would argue that a map style like this would not be appropriate for a wider extent like this. It was made specifically to reflect some of the characteristics and history around baseball stadiums themselves. This is a good reminder that any map style should be appropriate for the audience are trying to reach, the context you are trying to convey, and not interfere with the information you are trying to provide. 
 
 This is a much higher context style than the one I created last week for the La Boca barrio of Buenos Aires. That is an historic and eclectic style of the entire city and therefore much more appropriate to a wider extent. For reminder, the photo from last week's discussion can be found below:
 
-*photo*
+![photo](GoogleStyleAndColor.jpg)
 
 ## Building an On-Line Map with Mapbox
-Hi all, the link to my Mapbox, Sheet Mapper trial is linked here (Links to an external site.). After a few continuous struggles with the original MapBox assignment, I decided to give the Sheet Mapper tool a test run.
+Hi all, the link to my Mapbox, Sheet Mapper trial is [linked here](https://spcuff.github.io/mapster/index.html). After a few continuous struggles with the original MapBox assignment, I decided to give the Sheet Mapper tool a test run.
 
 Out of the interest of time, I used the template provided in the tutorial to map food banks in San Francisco. Though the Mapbox engineers likely built this tool outside of the context of the current pandemic, I could not help but think of the tool's utility and usability in the moment. A tool like this provides a wide range of potential users to better plan, coordinate logistics, and target specific populations and services in need during a crisis. This made me consider the growing number of stories circulating the media about mutual care organizations, or de facto groups forming to coalesce around the needs of the vulnerable. So far that I have read, there have been groups forming in Los Angeles to assist the homeless, as well as groups in NYC serving persons with disabilities.
 
 In each case, a tool like this could be invaluable to rather makeshift or unique planning efforts to deliver every day, informal services to those in need. As needs of all levels of our society shift on a seemingly hourly basis, training in tools such as the sheet mapper can shorten the run up time in service provision and prevent anyone from falling through the cracks, in this crisis or the next.
 
-## Hurrican Damage Decisions
+## Hurricane Damage Decisions
 
 ## Creating Your Own Geographic Footprint
 ### 412 Food Rescue Data
@@ -63,14 +63,14 @@ I was running into a few challenges with the python script to review my location
 
 Besides, these points on data creation and security, I created the below map in Kepler:
 
-*photo*
+![photo](kepler-gl.png)
 
 Though the .png doesn't show the time series interactions of donation pick ups and drop offs, I really like using this tool. Kepler was extremely easy to understand and develop an interesting visualization. Knowing a little about 412 Food Rescue, I thought of how insightful it can be for small organizations to collect and transit XY data. Of course, their service model would collect a lot of this information on its own given the nature of the service they provide, but I considered how powerful this type of information could be for transportation or workforce program advocates. If they were able to aggregate location data, and then anonymize that data, a compelling case could be made by and for members of their constituencies to exam the gaps in the system or barriers to accessing programs. 
 
 ## Using ArcGIS Insights to Investigate the DEA's Pain Pill Database
 Below is a photo of the workspace I created in ArcGIS Insights:
 
-*photo*
+![photo](Map-to-Post.JPG)
 
 Overall, I really enjoyed the experience of working with ArcGIS Insights, and felt that geospatial datasets are becoming more user friendly. One of the reasons I enjoyed and appreciated the tool so much goes back to one of the main reasons why I wanted to learn GIS in grad school. It was nearly impossible for me as a political science major to access undergrad classes that taught GIS because the usability and licenses were deemed more valuable for undergrads in architecture and civil engineering. Though generally true, the Heinz experience and many of the organizations we have worked with over the summer proves the value of spatial analytics in theorizing, developing, and deploying public policy solutions. 
 
