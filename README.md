@@ -82,4 +82,4 @@ That scenarios highlights the trade off I see in using Insights versus Pro. Yes,
 It appears ESRI's marketing is quite on point. ArcGIS Insights seems meant for quick pull, specific analyses meant to be replicated quickly.
 
 ## Final Project: COVID-19 Time Lapse Visualization Project
-[Follow this link](https://spcuff.github.io/COVID-19-Time-Series-Map/) to view the final project I worked on with my colleague, Christopher Ibeling.
+[Follow this link](https://spcuff.github.io/COVID-19-Final-Project/) to view the final project I worked on with my colleague, Christopher Ibeling.
